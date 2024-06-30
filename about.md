@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+My passion lies in explaining things, helping people and sharing ideas and codes. I really enjoy learning new skills and experiment with every technology. I hope that some of my repositories serve as a source of inspiration and utility to you, showcasing my continuous journey of self-improvement and learning.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[arnauclaramunt03@gmail.com](mailto:arnauclaramunt03@gmail.com)
