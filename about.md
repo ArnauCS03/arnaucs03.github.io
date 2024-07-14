@@ -8,4 +8,7 @@ My passion lies in explaining things, helping people and sharing ideas and codes
 
 ### Contact me
 
+📬 Contact
+Email: arnauclaramunt03@gmail.com
+
 [arnauclaramunt03@gmail.com](mailto:arnauclaramunt03@gmail.com)
