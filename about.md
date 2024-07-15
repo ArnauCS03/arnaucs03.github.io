@@ -56,13 +56,13 @@ My passion lies in explaining things, helping people and sharing ideas and codes
   <a href="https://www.jetbrains.com/es-es/idea/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Idea-Dark.svg" alt="intellij" width="36" height="40"/> </a>
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/J/jupyter-logo-A91705F539-seeklogo.com.png" alt="jpnotebook" width="40" height="40"/> </a>
   <a href="https://devpost.com/arnau-claramunt?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/D/devpost-logo-95FF685C5D-seeklogo.com.png" alt="devpost" width="44" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <br><br>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 
 
 
 ### 📬 Contact me
 Email: [arnauclaramunt03@gmail.com](mailto:arnauclaramunt03@gmail.com)
+
 <p align="left">
-  
 <a href="https://linkedin.com/in/arnau-claramunt-soler" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arnau-claramunt-soler" height="30" width="40" /></a> 
 </p>
